@@ -1,0 +1,5 @@
+*.beam
+*.log
+.git/
+*config.*
+!*config.*example.*
